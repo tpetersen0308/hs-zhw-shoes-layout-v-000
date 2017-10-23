@@ -24,7 +24,7 @@
 
 /* Posititoning Classes */
 * {
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
 }
 
 .col-1 {
