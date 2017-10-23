@@ -23,6 +23,9 @@
 }
 
 /* Posititoning Classes */
+* {
+  box-sizing: border-box;
+}
 
 .col-1 {
   float: left;
